@@ -1,4 +1,6 @@
 # What is Gamblecore? 🎰
+
+# What is the story behind it? 📖
 Currently when I made this repository, Gamblecore is known for *gambling* and for being so *competetive* at my school. Gamblecore is a big and significant project for me since all the people liked it and it was very easy to undersrtand. It was on a very famouse google doc at my school called *Project Existence™* which is where Gamblecore was.
 
 ## You can click the link below to see how Gamblecore looked like in the Google Doc:
