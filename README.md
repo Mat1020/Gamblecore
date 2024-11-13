@@ -1,5 +1,5 @@
 ## What is Gamblecore? 🎰
-Currently when I made this repository, Gamblecore was known for gambling and for being so competetive. 
+Currently when I made this repository, Gamblecore is known for gambling and for being so competetive. 
 Gamblecore is a school project made at my school, used to gamble competetive and have fun.
 
 ## More about Project Existence 👀
