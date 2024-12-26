@@ -1,1 +1,3 @@
+## About:
 
+Gamblecore is 
